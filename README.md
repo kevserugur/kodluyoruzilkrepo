@@ -9,7 +9,9 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-end eğitiminde oluşturduğu
 ## Installation
 Öncelikle projeyi clonelayın.(Buraya sizin reponuzdan aldığınız link gelecek)
 
-```bash git clone https://github.com/kevserugur/kodluyoruzilkrepo.git```
+```bash
+git clone https://github.com/kevserugur/kodluyoruzilkrepo.git
+```
 
 
 
@@ -17,8 +19,7 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-end eğitiminde oluşturduğu
 Projeyi cloneladıktan sonra visual Studio Code programında açınız.
 Linux için:
 
-```
-linux
+```linux
 cd kodluyoruzilkrepo
 code . 
 ```
