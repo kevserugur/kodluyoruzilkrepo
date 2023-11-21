@@ -13,8 +13,6 @@ Bu repo [Kodluyoruz](https://kodluyoruz.org) Front-end eğitiminde oluşturduğu
 git clone https://github.com/kevserugur/kodluyoruzilkrepo.git
 ```
 
-
-
 ## Usage
 Projeyi cloneladıktan sonra visual Studio Code programında açınız.
 Linux için:
